@@ -1,19 +1,3 @@
-# frases
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![img_01](https://github.com/LeiliFerreira/Sorteando-frases-em-Flutter/assets/72282625/5c78ba4a-c8e5-4e90-b3f9-e095ac455953)
+![img_02](https://github.com/LeiliFerreira/Sorteando-frases-em-Flutter/assets/72282625/82483901-07bf-4e88-9845-78a06f3eb04f)
+![img_03](https://github.com/LeiliFerreira/Sorteando-frases-em-Flutter/assets/72282625/d2ce5a86-b97f-486c-b2e9-7170abb53362)
